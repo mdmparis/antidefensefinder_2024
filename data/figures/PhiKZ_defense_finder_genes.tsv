@@ -1,0 +1,2 @@
+replicon	hit_id	gene_name	hit_pos	model_fqn	sys_id	sys_loci	locus_num	sys_wholeness	sys_score	sys_occ	hit_gene_ref	hit_status	hit_seq_len	hit_i_eval	hit_score	hit_profile_cov	hit_seq_cov	hit_begin_match	hit_end_match	counterpart	used_in	type	subtype	activity
+PhiKZ	PhiKZ_00215	tad1	215	defense-finder-models/ADF/Anti_Thoeris/tad1	PhiKZ_tad1_1	1	1	1.0	1.0	1	tad1	mandatory	230	3.2e-21	70.1	0.835	0.47	120	227			Anti_Thoeris	tad1	Antidefense
